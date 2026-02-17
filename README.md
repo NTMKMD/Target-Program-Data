@@ -5,7 +5,7 @@
     <th>OSS</th> <th>bug ID</th> <th>fix commit</th> <th>fix file</th> <th>bug rows</th>
   </tr>
   <tr>
-    <td rowspan="4">find</td>  <td>find-1</td> <td>c8491c1</td> <td>parser.c</td> <td>1505, 1523</td>
+    <td rowspan="4"><a href="https://github.com/gitGNU/gnu_findutils">find</a></td>  <td>find-1</td> <td>c8491c1</td> <td>parser.c</td> <td>1505, 1523</td>
   </tr>
   <tr>
     <td>find-2</td> <td>dbcb10e</td> <td>parser.c</td> <td>3195</td>
@@ -17,7 +17,7 @@
     <td>find-14</td> <td>9362375</td> <td>parser.c</td> <td>889, 890, 940, 941, 942, 1998, 2013, 3428</td>
   </tr>
   <tr>
-    <td rowspan="3">gpac</td>  <td>gpac-1</td> <td>c22c0bb</td> <td>configfile.c</td> <td>113, 116</td>
+    <td rowspan="3"><a href="https://github.com/gpac/gpac">gpac</a></td>  <td>gpac-1</td> <td>c22c0bb</td> <td>configfile.c</td> <td>113, 116</td>
   </tr>
   <tr>
     <td>gpac-3</td> <td>c22c0bb</td> <td>os_file.c</td> <td>686, 771, 772, 780, 782</td>
@@ -26,10 +26,10 @@
     <td>gpac-4</td> <td>c22c0bb</td> <td>data_map.c</td> <td>360</td>
   </tr>
   <tr>
-    <td>gdbm</td> <td>gdbm-1</td> <td>988d360</td> <td>gdbmload.c</td> <td>76, 77, 87, 114, 126, 128, 144, 154, 161, 226</td>
+    <td><a href="https://github.com/1g4-mirror/gdbm">gdbm</a></td> <td>gdbm-1</td> <td>988d360</td> <td>gdbmload.c</td> <td>76, 77, 87, 114, 126, 128, 144, 154, 161, 226</td>
   </tr>
   <tr>
-    <td rowspan="3">lua</td> <td>lua-1</td> <td>2bfa13e</td> <td>ldo.c</td> <td>415</td>
+    <td rowspan="3"><a href="https://github.com/lua/lua">lua</a></td> <td>lua-1</td> <td>2bfa13e</td> <td>ldo.c</td> <td>415</td>
   </tr>
   <tr>
     <td>lua-2</td> <td>cf613cd</td> <td>ldo.c</td> <td>536</td>
@@ -38,16 +38,16 @@
     <td>lua-3</td> <td>ad3942a</td> <td>ltable.c</td> <td>153, 154, 156, 157, 160, 164</td>
   </tr>
   <tr>
-    <td rowspan="2">bluez</td>  <td>bluez-1</td> <td>00eea35</td> <td>sdp-xml.c</td> <td>548</td>
+    <td rowspan="2"><a href="https://github.com/bluez/bluez">bluez</a></td>  <td>bluez-1</td> <td>00eea35</td> <td>sdp-xml.c</td> <td>548</td>
   </tr>
   <tr>
     <td>bluez-2</td> <td>5573661</td> <td>textfile.c</td> <td>130, 131, 132, 133</td>
   </tr>
   <tr>
-    <td rowspan="2">hdf-5</td> <td>hdf5-1</td> <td>9e765b9</td> <td>H5Ofsinfo.c</td> <td>97, 98, 99, 100, 101, 117, 118, 132, 133, 146, 205, 206</td>
+    <td rowspan="2"><a href="https://github.com/HDFGroup/hdf5">hdf-5</td> <td>hdf5-1</td> <td>9e765b9</td> <td>H5Ofsinfo.c</td> <td>97, 98, 99, 100, 101, 117, 118, 132, 133, 146, 205, 206</td>
   </tr>
   <tr>
-    <td>gdf5-2</td> <td>1126b83</td> <td>H5FSsection.c</td> <td>934</td>
+    <td>hdf5-2</td> <td>1126b83</td> <td>H5FSsection.c</td> <td>934</td>
   </tr>
 </table>
 
